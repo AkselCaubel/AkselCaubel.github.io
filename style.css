@@ -1,0 +1,47 @@
+hr{
+    width: 100%;
+}
+
+#moniteur {
+size:15px;
+padding:10px;}
+
+#bacImage{
+padding:10px}
+
+#etude{
+padding:170px}
+
+#brique{
+color : rgb(165,0,0);
+text-decoration: underline}
+
+#titre{
+text-decoration:normal;
+padding:5px;}
+
+.bouton{
+margin:50px 40px 20px 100px;
+}
+
+.SAE13Bouton{
+padding : 180px;
+}
+
+.SAE14Bouton{
+padding : 45px;
+}
+
+.projetTitre{
+margin:0px 110px}
+
+.projetIntitule{
+margin:0px 10px}
+
+.SAE14Intitule{
+margin:0px 30px}
+
+
+
+.Iprojet2{
+padding:35px;}
